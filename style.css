@@ -1,0 +1,17 @@
+#img{
+    width: 500px;
+    
+
+}
+.screen{
+    text-align: center;
+    color: rgb(247, 133, 1);
+    
+}
+p{
+    color: rgb(247, 133, 1);
+    font-size: 20px;
+}
+body{
+    background-color: rgb(50, 56, 62);
+}
